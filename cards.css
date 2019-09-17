@@ -1,0 +1,28 @@
+textarea {
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+}
+
+#btn-create {
+    color: blue;
+
+
+}
+
+.btn-delete-card {
+    position: relative;
+    float: right;
+    margin-top: 160px;
+    margin-right: 150px;
+    color: blue;
+
+}
+
+.card {
+    border: 1px solid black;
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px 0;
+}
