@@ -24,7 +24,7 @@ createDOM = (textField) => {
     ${textField}
     </div>
     <div>
-    <button id="delete--${id}">Delete This Card</button>
+    <button class="btn-delete-card" id="delete--${id}">Delete This Card</button>
     </div>
     </article>`
 }
